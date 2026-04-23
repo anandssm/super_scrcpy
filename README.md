@@ -417,6 +417,7 @@ See [LICENSE](LICENSE) for the full text.
 
 - GitHub: [@anandssm](https://github.com/anandssm)
 - Telegram: [@hanoipprojects](https://t.me/hanoipprojects)
+- Website: [https://superscrcpy.netlify.app](https://superscrcpy.netlify.app)
 
 ---
 
