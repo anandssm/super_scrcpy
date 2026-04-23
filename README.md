@@ -3,6 +3,12 @@
   <img src="https://img.shields.io/badge/Dart-3.10+-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart 3.10+"/>
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-6C5CE7?style=for-the-badge" alt="Platform"/>
   <img src="https://img.shields.io/badge/License-GPL--3.0-00B894?style=for-the-badge" alt="License GPL-3.0"/>
+  <a href="https://github.com/anandssm/super_scrcpy/actions/workflows/build.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/anandssm/super_scrcpy/build.yml?style=for-the-badge" alt="Build Status" />
+  </a>
+  <a href="https://github.com/anandssm/super_scrcpy/releases">
+    <img src="https://img.shields.io/github/downloads/anandssm/super_scrcpy/total?style=for-the-badge" alt="Total Downloads" />
+  </a>
 </p>
 
 <h1 align="center">
